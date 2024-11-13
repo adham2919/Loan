@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import joblib
 import numpy as np
-from imblearn.pipeline import Pipeline as ImbPipeline
 
 
 # Load the model and input columns
